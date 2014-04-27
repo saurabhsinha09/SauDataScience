@@ -20,8 +20,8 @@ For each of the training and test datasets,
 4. read the activity labels
 5. read the features
 6. Using descriptive activity names to name the activities:
-   1. For testing data
-   2. For training data
+   a. For testing data
+   b. For training data
 7. Creating full data set
 8. Assigning the column names from features.txt
 9. Row binding the activity of testing and training data
@@ -29,8 +29,8 @@ For each of the training and test datasets,
 11. Full data binding with activity and subject id.
 12. Assigning the name of the last two columns of the data
 13. Subsetting the full Data to obtain only the measurements on the mean and standard deviation for each measurement:
-    1. Fetching the column names   
-    2. Fetching the position of column
+    a. Fetching the column names   
+    b. Fetching the position of column
 14. Subsetting the data only with column name contains mean or std.	
 15. Obtaining the average of each variable for each subject and each activity.
 16. Exporting data into a .txt or .csv file.
